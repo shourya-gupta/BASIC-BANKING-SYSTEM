@@ -1,13 +1,13 @@
 # BASIC-BANKING-SYSTEM
 The Sparks Foundation Internship Project : Basic Banking System
-A Dynamic Website is used to transfer money between 10 users.
+A Dynamic Website is used to transfer money between users.
 
 Stack used -
-Front-end : HTML, CSS, Bootstrap & Javascript
+Front-end : HTML, CSS, Bootstrap and Javascript
 Back-end : PHP
 Database : MySQL
 
-The Database contains two Tables- Users Table & Transaction Table
+The Database contains two tables- Users Table & Transaction Table
 The User table have basic fields such as name, email & current balance.
 The Transaction table records all transfers happened along with their time.
 
